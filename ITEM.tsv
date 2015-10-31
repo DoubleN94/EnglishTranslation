@@ -1780,9 +1780,9 @@ ITEM_20150317_001779	$Large SP Potion
 ITEM_20150317_001780	$Restores 480 SP. {nl}Restores SP every 2 seconds for 15 seconds. {nl}Right-click to use. {nl}Cooldown: 60 seconds 
 ITEM_20150317_001781	$Stamina Pill 
 ITEM_20150317_001782	$Restores 15 Stamina. {nl}Right-click to use. {nl}Cooldown: 30 seconds 
-ITEM_20150317_001783	${memo X}Stamina Pill 
+ITEM_20150317_001783	{memo X}$Stamina Pill 
 ITEM_20150317_001784	$Restores 30 Stamina. {nl}Right-click to use. {nl}Cooldown: 45 seconds 
-ITEM_20150317_001785	${memo X}Large Stamina Pill 
+ITEM_20150317_001785	{memo X}$Large Stamina Pill 
 ITEM_20150317_001786	$Restores 40 Stamina. {nl}Right-click to use. {nl}Cooldown: 60 seconds 
 ITEM_20150317_001787	$Small Recovery Potion 
 ITEM_20150317_001788	$Restores 244 HP and SP. {nl}Restores HP and SP every 2 seconds for 15 seconds. {nl}Right-click to use. {nl}Cooldown: 30 seconds 
@@ -1800,7 +1800,7 @@ ITEM_20150317_001799	SP Recovery Potion (Small)
 ITEM_20150317_001800	HP +5 Increase Potion 
 ITEM_20150317_001801	HP +10 Increase Potion 
 ITEM_20150317_001802	$Movement Speed Increase Potion 
-ITEM_20150317_001803	${memo X}Increases Movement Speed by 5 for 180 seconds. {nl}Right-click to use.
+ITEM_20150317_001803	{memo X}$Increases Movement Speed by 5 for 180 seconds. {nl}Right-click to use.
 ITEM_20150317_001804	Warp Scroll 
 ITEM_20150317_001805	Allows you to warp to any Goddess Statue. Your current location will be saved at the Goddess Statue. 
 ITEM_20150317_001806	Companion Food 
@@ -1909,8 +1909,8 @@ ITEM_20150317_001908	$Basic Small SP Potion
 ITEM_20150317_001909	$Basic SP Potion  
 ITEM_20150317_001910	$Basic Large SP Potion  
 ITEM_20150317_001911	$Basic Stamina Pill 
-ITEM_20150317_001912	${memo X}Basic Stamina Pill 
-ITEM_20150317_001913	${memo X}Basic Large Stamina Pill 
+ITEM_20150317_001912	{memo X}$Basic Stamina Pill 
+ITEM_20150317_001913	{memo X}$Basic Large Stamina Pill 
 ITEM_20150317_001914	$Basic Small Recovery Potion  
 ITEM_20150317_001915	$Basic Recovery Potion  
 ITEM_20150317_001916	$Basic Large Recovery Potion  
